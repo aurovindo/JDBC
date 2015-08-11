@@ -18,6 +18,7 @@ public class StringTokenizerDemo {
 			tokenMap.put(splits[0], splits[1]);
 			System.out.println(tokenMap.toString());
 			System.out.println("Yes I do it successfully");
+			System.out.println("Yes I do it successfully");
 		}
 		
 	}
